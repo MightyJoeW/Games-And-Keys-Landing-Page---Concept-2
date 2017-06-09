@@ -1,11 +1,11 @@
-# [GamesAndKeys.com](https://mightyjoew.github.io/GamesAndKeys-Landing-Page/)
+# [GamesAndKeys.com](http://mightyjoetech.com/gakLandingPage2/)
 ## Video Game Piano Tutorials, Sheet Music, & Midi Files
 
 ### What is it?
 
 GamesAndKeys.com provides users with free video game piano tutorials, sheet music, and midi files. 
 
-<img src="https://lh3.googleusercontent.com/Fp_uddCeeA0brThUPlnp4cebGWeVeZkMCbnzXPOKoaRY2OBcU01lcM4lTBXhX6k16EeA_xb6T_EFoedw1-mpoFFY28bYWg_L_9YFunhbBzLTBqgrNcregsbn3v3aiKGgHqX2JZc7WQG-p0V9AxrsLkHNhORoIj6pa58QIm0xDlhPn-J9muUy9p55X0XJnNkLo8L5560u_u5pSFKe_VUBJbvYDXjkky2b71KMrik7An5l80HJXyHnztnmW2GiZfTDGiKM3Ik7Tgz_Nya0JvF1M1R-RihStUFleJo7Ht4azd2AB-wl_jMICzcODcDV4CZaq-BBG_ruM5KDq94G7pOQpHQ7i40NmWuD-Z603Mf78wiIq2LlzcXRk8yGvFezbqzBDZPxAFp8TK3dOmGXn_yZI7la65WgTZR3b3qVPmtvH5w2rPaImmhhfvY9oXKTVeTSCD4nILYonU4HGqffNbBxKwZ8kYmQnk0OFIlfukry0Nl4y6IOEIiYdT6Vsy-ViSCBP3sAp8kD_gcA6EBDEjEMyT5_RQt2NP52VTweutGSThKX-WW4SgWCz-wT8Su--gbjaoOWMMFiL6iTBrY2dYwvINnwAHaho3NfanWGiQ5yvs83WsPYsDwIDQ=w1278-h627-no" alt="GamesAndKeys Concept Landing Page">
+<img src="https://lh3.googleusercontent.com/qmZdaHfltOxuj7XNTNw78zx-74GrbjJINAwCXwpaVAf9IN2hb4Q-QXiwB2wX2gDgXnjQM0ijJTblXwoU3S5zvFRCIw4lWgRasw9GhEh371Am_839riLIOAY8B6zTXoWwjHR_IGc1cYGFM5Qk0-X1FdIvRjlnvT1AOl0wxrHL2QJUotG2w2n5mUiZrSCoFc5lOeOmXfloWUQ72OlNdDSMTQ2grj2Kw8PBFprR1cGDsz_-U1YCUaPsAiuUaVYvTshJef1Lcksj82tH5FxltQiFuO30TWYEXL1x2CFJ8Bzc_dHzUdTixp9fQkehrVwDQqRNc4XQgq4stnQi3V0wq1HRHXT-K2WFEbQ7slR412PDZl-WAL3aMmhn3cAwDYw83FM7pYQhq7QUIR_TSkDZ6aI28lthQaRJA62eVLxRtV2AHEJq3cGfWYV22rtaIEQV5BgKP5PkBhrX5bcEB4AspB69xUOOvx5_Xu_YSLWMYHAEjEr__wtUpxtQjsXUAcLWEc76H4p5lJbdUjpMAnao9Nzk7h-tuLBfEjUfNUN3wk-eAc0_RJkvtk_0T4rIj8c_--f9xACDlNgMdJM4B2ka3N0ryKNOufvGPOAUojO0OPEwgXVVYpoRzdWZpQ=w685-h302-no" alt="GamesAndKeys Landing Page - Concept 2">
 
 ### Origin
 Games and Keys was created out of the love for video game music as well as the desire to help others learn. In 2013, I entered and won Naughty Dog's The Last of Us Firefly Pendant video contest with a cosplay piano rendition of the main theme from The Last of Us ([watch here](https://youtu.be/0eacOSCYwnc)). 
